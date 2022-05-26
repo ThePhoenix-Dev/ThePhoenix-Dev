@@ -3,7 +3,9 @@
 Im ⒸⓄⒹⒾⓃⒼ with a few languages:
 
 - Python
-- HTML + CSS
+- C# (Unity)
+- Javascript (Web development)
+- Java
 - Lua
 
 On my GitHub profile I will upload my completed projects and other stuff.
